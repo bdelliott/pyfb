@@ -3,9 +3,7 @@ PyFB
 
 About
 -------
-PyFB contains a re-usable Django application and Facebook API client to enable rapid development of Facebook Canvas apps. It provides out of the box authorization of Facebook users
-so you can focus your specific application development.  There is also higher-level client code to 
-access FQL and Graph API operations.
+PyFB contains a re-usable Django application and Facebook API client to enable rapid development of Facebook Canvas apps. It provides out of the box authorization of Facebook users so you can focus your specific application development.  There is also higher-level client code to access FQL and Graph API operations.
 
 What's Included?
 ---------------
