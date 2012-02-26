@@ -24,12 +24,9 @@ Installation
 Getting Started  
 -------------
 
-If you're just interested in calling FQL and Graph API operations from Python, then the 'pyfb'
-directory contains some simple higher level functions for this purpose
+If you're just interested in calling FQL and Graph API operations from Python, then the 'pyfb' directory contains some simple higher level functions for this purpose.
 
-If you're writing a full canvas or other app on facebook.com, the Django app in 'pyfb_djano' contains
-some views for handling authorization and redirects per the OAuth process required to get
-valid Facebook access tokens.
+If you're writing a full canvas or other app on facebook.com, the Django app in 'pyfb_djano' contains some views for handling authorization and redirects per the OAuth process required to get valid Facebook access tokens.
 
 License
 -------
